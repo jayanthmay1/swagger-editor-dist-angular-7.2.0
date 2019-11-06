@@ -1,0 +1,1 @@
+# swagger-editor-dist-angular-7.2.0
